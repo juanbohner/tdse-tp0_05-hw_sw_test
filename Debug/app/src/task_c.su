@@ -1,0 +1,2 @@
+task_c.c:65:6:task_c_init	24	static,ignoring_inline_asm
+task_c.c:77:6:task_c_update	32	static,ignoring_inline_asm
